@@ -1,0 +1,36 @@
+body{
+  padding-top:50px;
+}
+
+.carousel {
+  height: 500px;
+  background-color: #000;
+  margin-bottom:60px;
+}
+
+.carousel .item {
+  height: 500px;
+  background-color: #000;
+}
+.carousel img {
+  width: 20%;
+
+}
+
+.container img{
+  width:40%;
+}
+
+.carousel-caption p{
+  margin-bottom:20px;
+  font-size:20px;
+  line-height:1.8;
+}
+
+#summary-container .col-md-4 {
+  text-align: center;
+}
+
+hr.divider {
+  margin:40px 0;
+}
