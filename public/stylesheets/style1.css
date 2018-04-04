@@ -1,0 +1,51 @@
+
+html {
+    background: url(../images/zhiguo/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.prof-box{
+    width: 350px;
+    height: 450px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 85px;
+    text-align:center;
+}
+
+.prof-pic{
+    border-radius: 60%;
+    height: 150px;
+    width: 200px;
+}
+
+h1{
+    font-weight:100;
+    letter-spacing: 4px;
+    font-size: 40px;
+}
+
+p{
+  font-weight: 200;
+  letter-spacing: 1px;
+}
+
+.social-icon{
+    font-size: 40px;
+}
+
+.social-icon a{
+    color: white;
+}
+
+.line-break {
+    width: 300px;
+    margin: 0 auto;
+    border-top: 1px solid white;
+}

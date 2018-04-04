@@ -1,25 +1,49 @@
+html {
+  background: url(../images/familybackground.jpg) no-repeat center center fixed ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+
 body{
+
   padding-top:50px;
+  padding-bottom:20px;
 }
 
 .carousel {
-  height: 500px;
+  height: 300px;
   background-color: #000;
-  margin-bottom:60px;
+  margin-bottom: 0px;
 }
 
 .carousel .item {
-  height: 500px;
+  height: 300px;
   background-color: #000;
 }
 .carousel img {
-  width: 30%;
+  width: 200px;
 
+}
+
+.container{
+  width:95%;
+  margin-top:0px;
 }
 
 .container img{
-  width:40%;
+  width:95%;
 }
+
+.jumbotron{
+
+  background-image: url(/public/background/a80973a694c58cd4ef4faf05583de185--photography-backgrounds-photo-backgrounds.jpg);
+
+}
+
 
 .carousel-caption p{
   margin-bottom:20px;
@@ -32,5 +56,9 @@ body{
 }
 
 hr.divider {
-  margin:40px 0;
+  margin:0px 0;
+}
+
+#myTabContent {
+  margin-bottom: 100px;
 }
