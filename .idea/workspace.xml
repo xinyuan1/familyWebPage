@@ -2,25 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9485de13-95f9-4774-aedc-2352fcf83e4d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/2015-08-15[10_28_11].jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/2015-08-15[10_28_29].jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/2015-11-22[06_16_54].jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/WeChatImage635764822905939337.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/familybackground.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/zhiguo/background.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/zhiguo/prof.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/zhixin/background.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/zhixin/prof.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/style1.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/style2.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/routes/zhiguo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/routes/zhixin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/views/zhiguo.ejs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/views/zhixin.ejs" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
-      <change beforePath="$PROJECT_DIR$/views/index.ejs" afterPath="$PROJECT_DIR$/views/index.ejs" />
       <change beforePath="$PROJECT_DIR$/views/test.ejs" afterPath="$PROJECT_DIR$/views/test.ejs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="94" column="23" lean-forward="true" selection-start-line="94" selection-start-column="23" selection-end-line="94" selection-end-column="23" />
+            <state relative-caret-position="-950">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
                 <marker date="1522865353325" expanded="true" signature="43:65" ph="..." />
               </folding>
@@ -47,11 +28,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/test.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -80,7 +81,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/routes/test.js" />
-        <option value="$PROJECT_DIR$/views/test.ejs" />
         <option value="$PROJECT_DIR$/routes/zhiguo.js" />
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/public/stylesheets/style1.css" />
@@ -91,6 +91,7 @@
         <option value="$PROJECT_DIR$/views/zhixin.ejs" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/views/test.ejs" />
       </list>
     </option>
   </component>
@@ -105,9 +106,9 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-29" />
-    <option name="y" value="92" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-73" />
+    <option name="y" value="80" />
     <option name="width" value="1938" />
     <option name="height" value="1010" />
   </component>
@@ -222,15 +223,15 @@
       <workItem from="1522250825933" duration="19820000" />
       <workItem from="1522348566888" duration="3460000" />
       <workItem from="1522429504540" duration="11196000" />
-      <workItem from="1522777853647" duration="18842000" />
+      <workItem from="1522777853647" duration="21056000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60593000" />
+    <option name="totallyTimeSpent" value="62807000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-29" y="92" width="1938" height="1010" extended-state="0" />
+    <frame x="-73" y="80" width="1938" height="1010" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21424773" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -310,20 +311,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/test.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="27" column="18" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="36" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -438,21 +425,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="94" column="23" lean-forward="true" selection-start-line="94" selection-start-column="23" selection-end-line="94" selection-end-column="23" />
-          <folding>
-            <marker date="1522865353325" expanded="true" signature="43:65" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/test.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-950">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1522865353325" expanded="true" signature="43:65" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
